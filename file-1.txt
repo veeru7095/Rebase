@@ -1,5 +1,8 @@
 this file_1
+<<<<<<< HEAD
 this is file_2
 this is file_3
 this is file_4
 this is file_5
+=======
+>>>>>>> 6cef6cc (Create file-1.txt)
